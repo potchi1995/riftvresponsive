@@ -14,3 +14,27 @@
     text-decoration-line: none;
     font-size: 18px;
 }
+
+h5{
+    font-family: 'Cairo', sans-serif;
+    font-size: 33px;
+}
+
+.form-control{
+    font-family: 'Cairo', sans-serif;
+    font-size: 27px;
+    width: 935px;
+    height: 77px;
+}
+
+.btn1{
+    height: 90px;
+}
+
+.btn2{
+    height: 77px;
+}
+
+.btn3{
+    height: 77px;
+}
