@@ -1,0 +1,39 @@
+.navbar{
+    font-family: 'Cairo', sans-serif;
+    font-size: 24px;
+    
+}
+
+.footer{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    word-spacing: 0px;
+    text-decoration: none;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Cairo', sans-serif;
+    font-size: 35px;
+}
+
+.card{
+    font-family: 'Cairo', sans-serif;
+}
+
+.card-header{
+    font-size: 28px;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.card-text{
+    color: #FF2564;
+    font-size: 28px;
+}
+
