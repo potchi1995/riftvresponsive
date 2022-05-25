@@ -1,0 +1,43 @@
+.navbar{
+    font-family: 'Cairo', sans-serif;
+    font-size: 24px;
+    
+}
+
+.footer{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    word-spacing: 0px;
+    text-decoration: none;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+.form-control1{
+    background-image: url(/Img/ok.png);
+    background-repeat: no-repeat;
+    direction: rtl;
+    height: 77px;    
+    background-position: 5px;
+}
+
+.form-control2{
+    background-image: url(/Img/carbon_view-filled.png);
+    background-repeat: no-repeat;
+   height: 77px;
+   background-position: 5px;
+    
+}
+
+.check{
+    font-size: 29px;
+    font-family: 'Cairo', sans-serif;
+}
+
+h5{
+    font-family: 'Cairo', sans-serif;
+    font-size: 33px;
+}
+
